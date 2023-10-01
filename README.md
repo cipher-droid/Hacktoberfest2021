@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://hacktoberfest.digitalocean.com/">
-    <h2 align="center">The <b>HACKTOBER FEST 2021</b></h2>
+    <h2 align="center">The <b>HACKTOBER FEST 2023</b></h2>
   </a>
 </p>
 <p align="center">Open source is changing the world – one contribution at a time.</p>
 
 <div align="center">
 
-![Issues](https://img.shields.io/github/issues/dark-coder-cat/Hacktoberfest2021)
-![Pull Requests](https://img.shields.io/github/issues-pr/dark-coder-cat/Hacktoberfest2021)
-![Forks](https://img.shields.io/github/forks/dark-coder-cat/Hacktoberfest2021)
-![Stars](https://img.shields.io/github/stars/dark-coder-cat/Hacktoberfest2021)
-![License](https://img.shields.io/github/license/dark-coder-cat/Hacktoberfest2021)
+![Issues](https://img.shields.io/github/issues//Hacktoberfest2023)
+![Pull Requests](https://img.shields.io/github/issues-pr/dark-coder-cat/Hacktoberfest2023)
+![Forks](https://img.shields.io/github/forks/dark-coder-cat/Hacktoberfest2023)
+![Stars](https://img.shields.io/github/stars/dark-coder-cat/Hacktoberfest2023)
+![License](https://img.shields.io/github/license/dark-coder-cat/Hacktoberfest2023)
 
 </div>
 
@@ -42,7 +42,7 @@ Hacktoberfest is a month long event where people are awarded for contributing to
 * Clone your fork down to your local machine.
 
 ```markdown
-git clone https://github.com/dark-coder-cat/Hacktoberfest2021
+git clone https://github.com/dark-coder-cat/Hacktoberfest2023
 ```
 
 * Create a branch
@@ -75,8 +75,8 @@ closes #your_issue_no
 
 ## Thanks to the Contributors
 
-<a href="https://github.com/dark-coder-cat/Hacktoberfest2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dark-coder-cat/Hacktoberfest2021" />
+<a href="https://github.com/dark-coder-cat/Hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dark-coder-cat/Hacktoberfest2023" />
 </a>
 
 ## Star this repository if you had fun contributing!
